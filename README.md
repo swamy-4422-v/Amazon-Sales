@@ -84,8 +84,7 @@ Through this project, we:
 
 ## Author
 
-*Swamy Hyma Kumar Vechalapu*  
-- 2nd Year CSE-DS Student  
+*Swamy Hyma Kumar Vechalapu* 
 - Skilled in Python, Pandas, NumPy, and Data Visualization  
 - [GitHub Profile](https://github.com/swamy-4422-v)
 
